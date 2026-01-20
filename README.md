@@ -1,3 +1,5 @@
+Paper: https://www.curieuxacademicjournal.com/_files/ugd/99711c_f7a0283271614b78b49164adbc9d7143.pdf Page 371.
+
 # Integrating Graph Neural Networks with Protein Language Models for Functional Annotation
 
 ## Abstract
